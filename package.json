@@ -1,0 +1,1 @@
+{"name":"para-ale","private":true,"scripts":{"dev":"node server.cjs","check":"node --check dist/app.js"}}
